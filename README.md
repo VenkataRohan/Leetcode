@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/VenkataRohan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VenkataRohan/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/VenkataRohan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/VenkataRohan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
